@@ -1,0 +1,6 @@
+google-generativeai
+sacrebleu
+pandas
+numpy
+matplotlib
+tqdm
