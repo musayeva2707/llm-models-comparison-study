@@ -1,0 +1,9 @@
+architecture,category,n,avg_length_chars,avg_completion_tokens,drift_pct,avg_chrf,ref_match_pct
+standalone,fact,175,140.5,53.8,45.1,,59.4
+standalone,trans,171,153.9,50.0,44.4,0.63,
+standalone,reas,180,360.1,171.3,22.2,,
+standalone,cult,180,1096.0,406.9,0.0,,
+sequential,fact,89,31.7,110.9,78.7,,58.4
+sequential,trans,90,71.5,150.0,31.1,0.732,
+sequential,reas,82,35.8,220.0,61.0,,
+sequential,cult,90,911.5,846.6,7.8,,
