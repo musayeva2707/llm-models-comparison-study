@@ -1,0 +1,8 @@
+# Core (needed for all backends)
+requests>=2.31
+pandas>=2.0
+numpy>=1.24
+
+# Optional - install only the backend you use
+# anthropic>=0.40      # --backend anthropic
+# openai>=1.40         # --backend openai_compat (also OpenRouter, vLLM, LM Studio)
