@@ -27,8 +27,7 @@ five-dimension rubric and a thirteen-code error taxonomy.
 ├── data/
 │   ├── prompts.csv           # the 120-item prompt suite (prompt, reference, gloss, category, difficulty)
 │   ├── responses_graded.csv  # the 1,049 graded responses (scores d1-d5, error codes, architecture)
-│   └── validation_native.csv # the 300-response native-speaker validation subset
-└── figures/                  # generated figures (optional)
+└── └── validation_native.csv # the 300-response native-speaker validation subset
 ```
 
 > Adjust the names above to match your actual files.
