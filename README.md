@@ -48,8 +48,7 @@ uzbek-study/
     └── runs/
         └── main/
             ├── auto_scores.csv     # per-response automatic scores
-            ├── auto_summary.csv    # aggregated summary
-            └── transcripts/        # raw model responses (JSON)
+            └── auto_summary.csv    # aggregated summary
 ```
 
 ## Setup
